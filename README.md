@@ -14,7 +14,7 @@ The questions and README.md files of their respective homework assignments were 
 
 Definitions:
 1. "academic institution": This includes but is not limited to Universities, Colleges, High Schools, and Middle Schools
-2. The terms "me" and "I" are used to reference the owner of this github repository
+2. The terms "me", "my", and "I" are used to reference the owner of this github repository
 3. "code": In this case, "code", is considered to by my (the owner of this github repository) answers to the questions contained in the README.md of its respective homework assignment
 4. other words are as defined in Merriam-Webster Dictionary: https://www.merriam-webster.com/dictionary/
 
