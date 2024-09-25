@@ -2,12 +2,12 @@
 Just my python solutions to Purdue's ECE 20875
 
 COPYRIGHT NOTICE:
-While this code is public to be viewed, the following are in violation of copyright law and will result in legal action. Please see the definitions at the bottom for clairifications.
+While this code is public to be viewed, the following are in violation of copyright law and will result in legal action being taken against the offending party. Please see the definitions section for clairifications.
 
 1. The reproduction of this code by a student to present as their own work.
 2. The use of this code by a student to present as their own work.
-3. The reproduction of this code by a any academic institution.
-4. The use of this code by any academic institution.
+3. The reproduction of this code by any academic institution for any reason.
+4. The use of this code by any academic institution for any reason.
    
 Any violation of the above statements without authorization from me, especially from an academic institution, is in violation of copyright law and will result in legal action.
 The questions and README.md files of their respective homework assignments were created by Purdue University West Lafayette for "ECE 20875" Python for Data Science.
