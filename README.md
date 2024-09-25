@@ -10,7 +10,7 @@ While this code is public to be viewed, the following are in violation of copyri
 4. The use of this code by any academic institution for any reason.
    
 Any violation of the above statements without authorization from me, especially from an academic institution, is in violation of copyright law and will result in legal action.
-The questions and README.md files of their respective homework assignments were created by Purdue University West Lafayette for "ECE 20875" Python for Data Science.
+The questions and README.md files of their respective homework assignments were created by Purdue University West Lafayette, who also owns the copyright for their respective work, for "ECE 20875" Python for Data Science.
 
 Definitions:
 1. "academic institution": This includes but is not limited to Universities, Colleges, High Schools, and Middle Schools
