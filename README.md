@@ -18,4 +18,4 @@ Definitions:
 3. "code": In this case, "code", is considered to by my (the owner of this github repository) answers to the questions contained in the README.md of its respective homework assignment
 4. other words are as defined in Merriam-Webster Dictionary: https://www.merriam-webster.com/dictionary/
 
-I reserve the right to modify the copyright status and any part of this repository at any point in time and without notice to any entity.
+I reserve the right to modify the copyright status and any part of this repository at any point in time.
